@@ -9,9 +9,9 @@ https://www.figma.com/file/wLC8CpipeJ70FKGFhUKf1o/Wireframe---Media-Fidelidade?n
 
 # Nova Landing Page - Protótipo Navegável Figma
 
-Wireframe de média fidelidade
-Componentizado
-Navegável no Figma
+Wireframe de média fidelidade <br/>
+Componentizado <br/>
+Navegável no Figma <br/>
 
 ▶ Page 1 - GestãoDev Wireframe (figma.com)
 
